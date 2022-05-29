@@ -140,7 +140,7 @@ This project has been tested with windows 10 and ubuntu 20.04
 #### Windows
 _Follow the below instructions step wise for proper running of this project ._
 
-1. Install visual studio build tool [https://visualstudio.microsoft.com/downloads/?q=build+tools](https://visualstudio.microsoft.com/downloads/?q=build+tools)
+1. Install visual studio build tool [https://visualstudio.microsoft.com/downloads/?q=build+tools](https://visualstudio.microsoft.com/downloads/?q=build+tools)  (this step is not required for linux users)
 2. Setup a virtual environment :
 
    * first create a virtual environment
