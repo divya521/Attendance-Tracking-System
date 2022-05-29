@@ -177,6 +177,17 @@ _Follow the below instructions step wise for proper running of this project ._
    ```sh
    npm install
    ```
+
+8. Navigate to the flask-backend directory :
+   ```sh
+   cd ../flask-backend
+   ```
+
+9. Create known-people and stranger directory :
+    ```sh
+    mkdir known-people
+    mkdir stranger
+    ```
 <!-- #### Linux
 _Follow the same steps as above with different command line for linux terminal :
 
