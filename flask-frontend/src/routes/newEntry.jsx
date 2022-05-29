@@ -13,6 +13,7 @@ export default function NewEntry() {
             <li>This page is to Register New Entry</li>
             <li>To Register yourself, Write your Roll number in the box given below</li>
             <li>Then look properly in the camera, and click <b>Register</b></li>
+            <li>Click on <b>Back to Home</b></li>
           </ul>
         }
         submitName = {true}
