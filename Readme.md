@@ -210,6 +210,9 @@ _Follow the same steps as above with different command line for linux terminal :
    and for the backend run :
 
     ```sh
+    cd ../..
+    Scripts\activate
+    cd Attendance-Tracking-System/flask-backend
     flask run
     ```
 4. After running both the terminals, frontend terminal will provide with a link which by ctrl+click will direct to the website where :
